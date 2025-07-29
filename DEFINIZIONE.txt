@@ -1,0 +1,1 @@
+Scrivere una interfaccia grafica in java standalone che simuli chatgpt e che quindi utilizzi le API di OpenAI
