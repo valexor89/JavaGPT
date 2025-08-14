@@ -24,6 +24,7 @@
               <goal>shade</goal>
             </goals>
             <configuration>
+              <finalName>JavaGPT</finalName>
               <shadedArtifactAttached>true</shadedArtifactAttached>
               <shadedArtifactClassifier>shaded</shadedArtifactClassifier>
               <transformers>
